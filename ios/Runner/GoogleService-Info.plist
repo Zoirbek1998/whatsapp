@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>146260254407-ldh7ac4kchij1c75u6o5jkfubirvvqun.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.146260254407-ldh7ac4kchij1c75u6o5jkfubirvvqun</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>146260254407-dl7s0e48fs7vs0k5av3ibalaih53g10r.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD55Rah1_HbOr2-evQKx1TKoOOPhsLQCjk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>146260254407</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.future.watsapp</string>
+	<key>PROJECT_ID</key>
+	<string>videochat-5a833</string>
+	<key>STORAGE_BUCKET</key>
+	<string>videochat-5a833.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:146260254407:ios:9fa38b9818068d28d328e2</string>
+	<key>DATABASE_URL</key>
+	<string>https://videochat-5a833-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
